@@ -1,0 +1,5 @@
+*.csv
+*.xlsx
+*.mov
+*.mp4
+.DS_Store
